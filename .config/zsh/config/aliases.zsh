@@ -1,4 +1,5 @@
 # Commom
+alias ls='ls --color=auto'
 alias ll='ls -lah --color=auto --group-directories-first'
 alias bat='bat --paging never'
 alias batp='bat'
