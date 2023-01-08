@@ -10,6 +10,5 @@ source ~/.config/zsh/config/aliases.zsh
 # zsh plugins
 source ~/.config/zsh/plugins/plugins.zsh
 
-# Themes
-## Agkozak
-source ~/.config/zsh/themes/agkozak-zsh-prompt.plugin.zsh
+# Theme
+source ~/.config/zsh/theme/theme.zsh
